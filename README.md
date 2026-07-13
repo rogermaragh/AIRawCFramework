@@ -1,6 +1,6 @@
 Ever wonder what raw, zero-dependency Win32 C/C++ looks like in a modern networking framework? 💻⚙️
-<br>
-Here is what is under the hood:<br><br>
+<br><br>
+Here is what is under the hood:<br>
 
 🏗️ Automated GUI Builder: Dynamically compile custom native stubs on the fly. Configure routing, ports, and unique Mutex identifiers directly from the controller UI. <br>
 👻 In-Memory Execution: Built-in Process Hollowing (e.g., injecting into svchost.exe) and automated Registry Persistence. <br>
