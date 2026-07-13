@@ -1,6 +1,5 @@
 Ever wonder what raw, zero-dependency Win32 C/C++ looks like in a modern networking framework? 💻⚙️
-<br><br>
-
+<br>
 Here is what is under the hood:<br><br>
 
 🏗️ Automated GUI Builder: Dynamically compile custom native stubs on the fly. Configure routing, ports, and unique Mutex identifiers directly from the controller UI. <br>
