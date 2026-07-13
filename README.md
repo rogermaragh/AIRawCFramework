@@ -1,4 +1,5 @@
-Ever wonder what raw, zero-dependency Win32 C/C++ looks like in a modern networking framework? 💻⚙️
+Ever wonder what raw, zero-dependency Win32 C/C++ looks like in a modern networking framework? 
+<b%For Educational Purposes Only</b>
 <br><br>
 Here is what is under the hood:<br>
 
